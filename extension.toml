@@ -1,0 +1,12 @@
+id = "nuf"
+name = "Nuf"
+version = "0.0.1"
+schema_version = 1
+authors = ["edburtnieks edburtnieks@pm.me"]
+description = "Nuf support."
+repository = "https://github.com/nuflang/zed-nuf"
+
+
+[grammars.nuf]
+repository = "https://github.com/nuflang/tree-sitter-nuf"
+commit = "b88e6efa9c8947b73d2482d662c77e42fb381a34"
